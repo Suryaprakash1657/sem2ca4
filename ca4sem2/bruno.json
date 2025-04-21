@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "ca4sem2",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
